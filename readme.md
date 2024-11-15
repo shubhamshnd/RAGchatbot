@@ -42,6 +42,7 @@ pip install -r requirements.txt
 ```
 HF_TOKEN=your_huggingface_token_here
 ```
+![image](https://github.com/user-attachments/assets/764ff6b7-0e7c-4151-9c1f-d46c24e3a172)
 
 5. Create data directory and add PDFs:
 ```bash
